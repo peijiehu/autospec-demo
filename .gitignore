@@ -1,0 +1,14 @@
+# Ignore project files. Project files should never be committed.
+.idea
+.project
+.projects
+.settings
+*.sublime-*
+
+# YARDoc files
+.yardoc
+doc
+
+# Log files and temporary files
+logs
+tmp
